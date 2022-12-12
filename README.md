@@ -1,2 +1,1 @@
-# pangolin
-Pangolin theme for Hugo
+# Pangolin
